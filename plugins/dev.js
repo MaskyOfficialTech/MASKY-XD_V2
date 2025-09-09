@@ -14,7 +14,7 @@ malvin(
       const senderName = pushname || "there";
 
       // === EDIT THIS PART WITH YOUR DETAILS ===
-      const devName = "Masky XD";
+      const devName = "𝐌𝐚𝐬𝐤𝐲 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐓𝐞𝐜𝐡";
       const devJid = "wa.me/2348074548225"; // <-- your WhatsApp number/JID
       const youtubeChannel = "https://youtube.com/@masky_official_tech"; // <-- your YouTube channel
       const profilePic =
